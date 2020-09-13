@@ -2,11 +2,11 @@
 
 # Project Overview
 
-W. Avy wants more information about temperature trends before opening the surf shop in Hawaai. He wants to do comparative analysis of tempeature for the months of June and December in Oahu. It helps W.Amy to determine whether the suft and ice cream shops are substainbale through out to year or not.
+W. Avy wants to set up ice-cream business with surf business in Oahu. She just wants to know more business relationship between temperature variable and icecream business in Oahu. She wants to perform comparative analysis of temperature from the Hawaii dataset for the months of June and December. It helps W.Amy to determine whether the surf and ice cream shops are substainbale through out to year or not.
 
 # Objective of the Project
 
-The main objective of this project is to help W. Avy to perform the trend analysis for the month of June and December's temperature data and it will significantly help him to make better marketing and sale strategy to promote his business.
+The main objective of this project is to help W. Avy to perform overll temperature analysis for the month of June and December's temperature data and it will significantly help her to make positing, better marketing and sale strategy to promote her business.
 
 # Results
 
